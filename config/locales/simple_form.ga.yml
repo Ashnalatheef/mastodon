@@ -233,6 +233,7 @@ ga:
         setting_display_media_show_all: Taispeáin uile
         setting_expand_spoilers: Méadaigh postálacha atá marcáilte le rabhaidh inneachair i gcónaí
         setting_hide_network: Folaigh do ghraf sóisialta
+        setting_missing_alt_text_modal: Taispeáin dialóg deimhnithe sula bpostálann tú meán gan alt téacs
         setting_reduce_motion: Laghdú ar an tairiscint i beochan
         setting_system_font_ui: Úsáid cló réamhshocraithe an chórais
         setting_system_scrollbars_ui: Bain úsáid as scrollbharra réamhshocraithe an chórais

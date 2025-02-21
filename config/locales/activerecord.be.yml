@@ -15,7 +15,6 @@ be:
       user/invite_request:
         text: Прычына
     errors:
-      messages:
       models:
         account:
           attributes:
@@ -37,7 +36,7 @@ be:
         list_account:
           attributes:
             account_id:
-              taken: ужо ў сьпісе
+              taken: ужо ў спісе
           must_be_following: мусіць быць падпісаным уліковым запісам
         status:
           attributes:

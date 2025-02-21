@@ -233,6 +233,7 @@ ru:
         setting_display_media_show_all: Показывать все
         setting_expand_spoilers: Всегда раскрывать посты, имеющие предупреждение о содержании
         setting_hide_network: Скрыть свои связи
+        setting_missing_alt_text_modal: Всегда спрашивать перед публикацией медиафайлов без альтернативного текста
         setting_reduce_motion: Уменьшить движение в анимации
         setting_system_font_ui: Использовать шрифт системы по умолчанию
         setting_system_scrollbars_ui: Использовать системные полосы прокрутки
